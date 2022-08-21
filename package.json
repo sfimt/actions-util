@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkeleyUA/actions-util.git"
+    "url": "git+https://github.com/sfimt/actions-util.git"
   },
   "keywords": [
     "redux",
     "api",
     "actions"
   ],
-  "author": "Alexandr Stepaniuk <akeley1994@gmail.com>",
+  "author": "Furqan Imtiaz <furqan.imtiaz@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkeleyUA/actions-util/issues"
+    "url": "https://github.com/sfimt/actions-util/issues"
   },
-  "homepage": "https://github.com/AkeleyUA/actions-util#readme",
+  "homepage": "https://github.com/sfimt/actions-util#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1"
   }
